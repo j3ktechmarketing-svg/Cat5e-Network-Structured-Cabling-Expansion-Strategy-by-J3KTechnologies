@@ -30,7 +30,6 @@ A strong upgrade strategy also involves evaluating how existing cabling interact
 - Future-ready infrastructure reduces long-term IT costs.  
 - Structured cabling becomes a strategic investment rather than a short-term fix.  
 - It ensures alignment with digital transformation goals.  
-
 ---
 
 ## Cat5e Data Cabling Installation Partner and Office Connectivity Strategy
